@@ -53,10 +53,6 @@ Project Structure
 - Sentiment_Analysis_Colab_Code.ipynb
 - Sentiment_Analysis_Report_Taufiq_Detailed.docx
 
-Downloads
-Final Report (Word): Sentiment_Analysis_Report_Taufiq_Detailed.docx
-Power BI Dashboard: Sentiment_Dashboard_Taufiq.pbix
-
 Author
 Multani Mohammad Taufiq Firozkhan
 MBA in Business Analytics
